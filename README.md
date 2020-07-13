@@ -37,6 +37,8 @@ The evaluation metric for this competition is 100*RMSLE (Root Mean Squared Log E
    1. Creating datetime features.
    2. Creating price difference rate features.
    3. Creating aggregate features.
+- Building baseline models and tuning.
+- Use Stacking.
 
 ### Ranking
 
